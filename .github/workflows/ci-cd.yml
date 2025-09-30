@@ -5,7 +5,7 @@ on:
     tags:
       - "v*.*.*"
 env:
-  DOCKER_IMAGE: "hvhoai/busify-project"
+  DOCKER_IMAGE: "thuongbignose/bustify-be"
   JAVA_VERSION: "21"
 jobs:
   build:
